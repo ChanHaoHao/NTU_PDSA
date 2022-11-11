@@ -12,8 +12,11 @@ Full: a site can connect to the top row of the grid via a chain of neighboring (
 Percolation: There exists a full site at the bottom row of the grid.
 Reference
 ---
-Assignment reference: https://introcs.cs.princeton.edu/java/assignments/percolation.html
-Java visualizer: https://coursera.cs.princeton.edu/algs4/assignments/percolation/percolation.zip (Note: For the input data of visualizer, The row and column indices i and j are integers between 1 and N, where (1, 1) is the upper-left site.)
+Assignment reference: 
+https://introcs.cs.princeton.edu/java/assignments/percolation.html
+Java visualizer: 
+https://coursera.cs.princeton.edu/algs4/assignments/percolation/percolation.zip 
+(Note: For the input data of visualizer, The row and column indices i and j are integers between 1 and N, where (1, 1) is the upper-left site.)
 
 Template
 ---
